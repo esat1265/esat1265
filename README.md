@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate web developer and Data Science</h3>
 
-- 🔭 I’m currently working on [Schoolink](https://schoolinks-204bd8752905.herokuapp.com/)nand [AirbnBoat](https://airbnb-ronanker29-d8e903b19aa2.herokuapp.com/)
+- 🔭 I’m currently working on [Schoolink](https://schoolinks-204bd8752905.herokuapp.com/) and [AirbnBoat](https://airbnb-ronanker29-d8e903b19aa2.herokuapp.com/)
 
 - 🌱 I’m currently learning **Docker and Kubernetes** and **Machine Learning Operations**
 
