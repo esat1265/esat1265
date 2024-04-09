@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate web developer and Data Science</h3>
 
 - 🔭 I’m currently working on [Schoolink](https://schoolinks-204bd8752905.herokuapp.com/)
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Docker and Kubernetes** and **Machine Learning Operations**
 
 - 👯 I’m looking to collaborate on [AirbnBoat](https://airbnb-ronanker29-d8e903b19aa2.herokuapp.com/)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development** and **Data Science**
 
 - 📫 How to reach me **mustafa.arslan2891@gmail.com**
 
