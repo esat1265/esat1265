@@ -3,8 +3,10 @@
 
 - 🔭 I’m currently working on [Schoolink](https://github.com/esat1265/schoolink) and [AirbnBoat](https://github.com/esat1265/rental-boat)
 
-- 🌱 I’m currently learning **Docker and Kubernetes** and **Machine Learning Operations**
-
+- 🌱 I’m currently learning **Machine Learning Operations**
+  
+- 🚀 I will focus on **Docker and Kubernetes**
+  
 - 💬 Ask me about **Web development** and **Data Science**
 
 - 📫 How to reach me **mustafa.arslan2891@gmail.com**
