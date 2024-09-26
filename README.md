@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate web developer and Data Science</h3>
 
-- 🔭 I’m currently working on [Schoolink](https://github.com/esat1265/schoolink) and [AirbnBoat](https://github.com/esat1265/rental-boat)
+- 👨‍💻 I'm currently a participant of [Powercoders](https://powercoders.org/)
+  
+- 🔭 I've worked on the projects [Schoolink](https://github.com/esat1265/schoolink) and [AirbnBoat](https://github.com/esat1265/rental-boat)
 
-- 🌱 I’m currently learning **Machine Learning Operations**
+- 📙 I’m currently learning **Machine Learning Operations**
   
 - 🚀 I will focus on **Docker and Kubernetes**
   
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **mustafa.arslan2891@gmail.com**
 
-- ⚡ Fun fact **Math is fun 📊😃**
+- ⚡ **Math is fun 📊😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
